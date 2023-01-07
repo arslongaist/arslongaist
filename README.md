@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Profilime Hoş Geldin!</h1>
 
-Ben Furkan Yağız👀 bilgiye ve bilime dair büyük merakım var. Bu profilde özellikle yazılım alanındaki gelişimimi ve deneyimimi paylaşmayı amaçlıyorum 🌱.
+Ben Furkan Yağız👀 Bilgiye ve bilime dair büyük merakım var. Bu profilde özellikle yazılım alanındaki gelişimimi ve deneyimimi paylaşmayı amaçlıyorum 🌱.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Urbanist&size=25&duration=3500&pause=750&color=006EF7&multiline=true&width=500&height=100&lines=Hayaller+translasyon;Ger%C3%A7ekler+delesyon...)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Urbanist&size=18&duration=1&color=006EF7&multiline=true&repeat=false&width=500&height=100&lines=-Dopamin+Han+Hazretleri)](https://git.io/typing-svg)
